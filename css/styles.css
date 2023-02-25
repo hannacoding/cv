@@ -1,0 +1,170 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+    background-color: white;
+    border-style: dotted none none none;
+    height: 0.25rem;
+    width: 10%;
+    border-width: 0.375rem;
+    border-color: #13005A;
+    margin: 6.25rem auto 6.25rem auto;
+    }
+
+p {
+    line-height: 2;
+}
+
+
+.topcontainer {
+    background-color: #86E5FF;
+    position: relative;
+    padding-top: 6.25rem;
+}
+
+
+h1 {
+    line-height: 2;
+    color: #13005A;
+    font-size: 5.562rem;
+    margin: 3.125rem auto 0 auto;
+    font-family: 'Sacramento', sans-serif;
+}
+
+h2 {
+    font-weight: normal;
+    color: #13005A;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #1C82AD;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bio {
+    width: 18.75rem;
+    margin: auto;
+    line-height: 2;
+}
+
+
+.topcloud {
+    position: absolute;
+    right: 25rem;
+    top: 3.125rem;
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 25rem;
+    bottom: 18.75rem;
+
+}
+
+
+.mountain {
+    position: relative;
+    top: 0.1875rem;
+}
+
+.middle-container {
+    background-color: #FEFBE9;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 6.25rem auto 6.25rem auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.image1 {
+    width: 25%;
+    float: left;
+    margin-right: 1.875rem;
+    margin-top: 3.125rem;
+    margin-bottom: 1.875rem;
+}
+
+.image2 {
+    width: 25%;
+    float: right;
+    margin-left: 1.875rem;
+}
+
+
+.me_photo {
+    position: relative;
+    top: 0.3125rem;
+    width: 18.75rem;
+    height: 18.75rem;
+}
+
+.contact-me {
+    position: relative;
+    bottom: 3.125rem;
+}
+
+.reachout {
+    margin-bottom: 3.125rem;
+}
+
+.btn1 {
+  border-radius: 0.9375rem;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 1.4375rem;
+  background: #13005A;
+  padding: 0.625rem 1.125rem 0.625rem 1.25rem;
+  text-decoration: none;
+  position: relative;
+  bottom: 1.25rem;
+}
+
+.btn1:hover {
+  text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #86E5FF;
+    margin: 0 px auto 0 auto;
+    height: 10rem;
+}
+
+.cr {
+    position: relative;
+    margin: 0;
+    top: 6.25rem;
+    font-family: Montserrat;
+    font-size: 0.90rem;
+}
+
+.footer-link1 {
+    position: relative;
+    top: 3.75rem;
+    right: 3.125rem;
+    font-family: Montserrat;
+    text-decoration: none;
+}
+
+.footer-link1:hover {
+    color: white;
+}
+
+.footer-link2 {
+    position: relative;
+    top: 3.75rem;
+    left: 3.125rem;
+    font-family: Montserrat;
+    text-decoration: none;
+}
+
+.footer-link2:hover {
+    color: white;
+}
